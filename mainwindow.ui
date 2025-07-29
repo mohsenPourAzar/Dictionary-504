@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>657</width>
+    <height>930</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>601</width>
+      <height>871</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="QPushButton" name="L1">
+       <property name="text">
+        <string>Lesson-1</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="L22">
+       <property name="text">
+        <string>Lesson-22</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QPushButton" name="L2">
+       <property name="text">
+        <string>Lesson-2</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QPushButton" name="L23">
+       <property name="text">
+        <string>Lesson-23</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QPushButton" name="L3">
+       <property name="text">
+        <string>Lesson-3</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QPushButton" name="L24">
+       <property name="text">
+        <string>Lesson-24</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QPushButton" name="L4">
+       <property name="text">
+        <string>Lesson-4</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QPushButton" name="L25">
+       <property name="text">
+        <string>Lesson-25</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QPushButton" name="L5">
+       <property name="text">
+        <string>Lesson-5</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="1">
+      <widget class="QPushButton" name="L26">
+       <property name="text">
+        <string>Lesson-26</string>
+       </property>
+      </widget>
+     </item>
+     <item row="5" column="0">
+      <widget class="QPushButton" name="L6">
+       <property name="text">
+        <string>Lesson-6</string>
+       </property>
+      </widget>
+     </item>
+     <item row="5" column="1">
+      <widget class="QPushButton" name="L27">
+       <property name="text">
+        <string>Lesson-27</string>
+       </property>
+      </widget>
+     </item>
+     <item row="6" column="0">
+      <widget class="QPushButton" name="L7">
+       <property name="text">
+        <string>Lesson-7</string>
+       </property>
+      </widget>
+     </item>
+     <item row="6" column="1">
+      <widget class="QPushButton" name="L28">
+       <property name="text">
+        <string>Lesson-28</string>
+       </property>
+      </widget>
+     </item>
+     <item row="7" column="0">
+      <widget class="QPushButton" name="L8">
+       <property name="text">
+        <string>Lesson-8</string>
+       </property>
+      </widget>
+     </item>
+     <item row="7" column="1">
+      <widget class="QPushButton" name="L29">
+       <property name="text">
+        <string>Lesson-29</string>
+       </property>
+      </widget>
+     </item>
+     <item row="8" column="0">
+      <widget class="QPushButton" name="L9">
+       <property name="text">
+        <string>Lesson-9</string>
+       </property>
+      </widget>
+     </item>
+     <item row="8" column="1">
+      <widget class="QPushButton" name="L30">
+       <property name="text">
+        <string>Lesson-30</string>
+       </property>
+      </widget>
+     </item>
+     <item row="9" column="0">
+      <widget class="QPushButton" name="L10">
+       <property name="text">
+        <string>Lesson-10</string>
+       </property>
+      </widget>
+     </item>
+     <item row="9" column="1">
+      <widget class="QPushButton" name="L31">
+       <property name="text">
+        <string>Lesson-31</string>
+       </property>
+      </widget>
+     </item>
+     <item row="10" column="0">
+      <widget class="QPushButton" name="L11">
+       <property name="text">
+        <string>Lesson-11</string>
+       </property>
+      </widget>
+     </item>
+     <item row="10" column="1">
+      <widget class="QPushButton" name="L32">
+       <property name="text">
+        <string>Lesson-32</string>
+       </property>
+      </widget>
+     </item>
+     <item row="11" column="0">
+      <widget class="QPushButton" name="L12">
+       <property name="text">
+        <string>Lesson-12</string>
+       </property>
+      </widget>
+     </item>
+     <item row="11" column="1">
+      <widget class="QPushButton" name="L33">
+       <property name="text">
+        <string>Lesson-33</string>
+       </property>
+      </widget>
+     </item>
+     <item row="12" column="0">
+      <widget class="QPushButton" name="L13">
+       <property name="text">
+        <string>Lesson-13</string>
+       </property>
+      </widget>
+     </item>
+     <item row="12" column="1">
+      <widget class="QPushButton" name="L34">
+       <property name="text">
+        <string>Lesson-34</string>
+       </property>
+      </widget>
+     </item>
+     <item row="13" column="0">
+      <widget class="QPushButton" name="L14">
+       <property name="text">
+        <string>Lesson-14</string>
+       </property>
+      </widget>
+     </item>
+     <item row="13" column="1">
+      <widget class="QPushButton" name="L35">
+       <property name="text">
+        <string>Lesson-35</string>
+       </property>
+      </widget>
+     </item>
+     <item row="14" column="0">
+      <widget class="QPushButton" name="L15">
+       <property name="text">
+        <string>Lesson-15</string>
+       </property>
+      </widget>
+     </item>
+     <item row="14" column="1">
+      <widget class="QPushButton" name="L36">
+       <property name="text">
+        <string>Lesson-36</string>
+       </property>
+      </widget>
+     </item>
+     <item row="15" column="0">
+      <widget class="QPushButton" name="L16">
+       <property name="text">
+        <string>Lesson-16</string>
+       </property>
+      </widget>
+     </item>
+     <item row="15" column="1">
+      <widget class="QPushButton" name="L37">
+       <property name="text">
+        <string>Lesson-37</string>
+       </property>
+      </widget>
+     </item>
+     <item row="16" column="0">
+      <widget class="QPushButton" name="L17">
+       <property name="text">
+        <string>Lesson-17</string>
+       </property>
+      </widget>
+     </item>
+     <item row="16" column="1">
+      <widget class="QPushButton" name="L38">
+       <property name="text">
+        <string>Lesson-38</string>
+       </property>
+      </widget>
+     </item>
+     <item row="17" column="0">
+      <widget class="QPushButton" name="L18">
+       <property name="text">
+        <string>Lesson-18</string>
+       </property>
+      </widget>
+     </item>
+     <item row="17" column="1">
+      <widget class="QPushButton" name="L39">
+       <property name="text">
+        <string>Lesson-39</string>
+       </property>
+      </widget>
+     </item>
+     <item row="18" column="0">
+      <widget class="QPushButton" name="L19">
+       <property name="text">
+        <string>Lesson-19</string>
+       </property>
+      </widget>
+     </item>
+     <item row="18" column="1">
+      <widget class="QPushButton" name="L40">
+       <property name="text">
+        <string>Lesson-40</string>
+       </property>
+      </widget>
+     </item>
+     <item row="19" column="0">
+      <widget class="QPushButton" name="L20">
+       <property name="text">
+        <string>Lesson-20</string>
+       </property>
+      </widget>
+     </item>
+     <item row="19" column="1">
+      <widget class="QPushButton" name="L41">
+       <property name="text">
+        <string>Lesson-41</string>
+       </property>
+      </widget>
+     </item>
+     <item row="20" column="0">
+      <widget class="QPushButton" name="L21">
+       <property name="text">
+        <string>Lesson-21</string>
+       </property>
+      </widget>
+     </item>
+     <item row="20" column="1">
+      <widget class="QPushButton" name="L42">
+       <property name="text">
+        <string>Lesson-42</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>657</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
